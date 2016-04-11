@@ -32,7 +32,17 @@ data = {
     type: "name"
   },
   type: 'FeatureCollection',
-  features: features
+  features: features,
+  metadata: {
+    data_source: {
+      title: "Daten von der EVB",
+      url: "https://www.essen.de/rathaus/aemter/ordner_32/Wochenmaerkte.de.html"
+     },
+     map_initialization: {
+      "coordinates": [ 7.011837, 51.456474 ],
+      "zoom_level": 13
+    }
+  }
 }
 
 File.open("./essen.json", 'w') { |file| file.print data.to_json }
