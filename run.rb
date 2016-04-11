@@ -5,8 +5,8 @@ csv_file = CSV.read("./wochenmaerkte.csv.tsv", { col_sep: "\t" })
 
 features = []
 
-csv_file.each do |row|
-  if row[6] && row[5]
+csv_file.each_with_index do |row, index|
+  if index != 1 && row[6] && row[5]
     feature = {
       type: 'Feature',
       geometry: {
@@ -24,5 +24,15 @@ csv_file.each do |row|
   end
 end
 
-data = {type: 'FeatureCollection', features: features}
+data = {
+  crs: {
+    properties: {
+      name: "urn:ogc:def:crs:OGC:1.3:CRS84"
+    },
+    type: "name"
+  },
+  type: 'FeatureCollection',
+  features: features
+}
+
 File.open("./essen.geojson", 'w') { |file| file.print data.to_json }
