@@ -6,7 +6,7 @@ csv_file = CSV.read("./wochenmaerkte.csv.tsv", { col_sep: "\t" })
 features = []
 
 csv_file.each_with_index do |row, index|
-  if index != 1 && row[6] && row[5]
+  if index != 0 && row[6] && row[5]
     feature = {
       type: 'Feature',
       geometry: {
