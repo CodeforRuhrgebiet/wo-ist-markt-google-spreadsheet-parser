@@ -35,4 +35,4 @@ data = {
   features: features
 }
 
-File.open("./essen.geojson", 'w') { |file| file.print data.to_json }
+File.open("./essen.json", 'w') { |file| file.print data.to_json }
