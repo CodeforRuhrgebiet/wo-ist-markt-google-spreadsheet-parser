@@ -40,7 +40,7 @@ data = {
      },
      map_initialization: {
       "coordinates": [ 7.011837, 51.456474 ],
-      "zoom_level": 11
+      "zoom_level": 12
     }
   }
 }
