@@ -1,4 +1,4 @@
-	- Kommentare in der Titel-Leiste beachten - grün markiert = wird unbedingt benötigt - $ ganz am Anfang = fertig - rot markiert = da fehlt was			alle nicht grün markierten Spalten beinhalten Rohdaten, die zum Markt verfügbar sind							
+	- Kommentare in der Titel-Leiste beachten - grün markiert = wird unbedingt benötigt - § ganz am Anfang = fertig - rot markiert = da fehlt was			alle nicht grün markierten Spalten beinhalten Rohdaten, die zum Markt verfügbar sind							
 											
 	Daten von der EVB	https://www.essen.de/rathaus/aemter/ordner_32/Wochenmaerkte.de.html									
 											
@@ -21,7 +21,7 @@
 §	Krayer Markt	Krayer Markt	We, Fr 08:00-13:00		51.4668777	7.0787459	Kray	Krayer Markt	Mi, Fr	08:00 – 13:00 Uhr	Herr Teske
 §	Kupferdreher Markt	Kupferdreher Markt	We, Fr 08:00-13:00		51.3908989	7.0821605	Kupferdreh	Kupferdreher Markt	Mi, Fr	08:00 – 13:00 Uhr	Herr Teske
 §	Marktkirche/Flachsmarkt	Marktkirche/Flachsmarkt	Tu, Fr 09:00-18:00		51.457116	7.012366	Stadtmitte2	Marktkirche/Flachsmarkt	Di, Fr	09:00 – 18:00 Uhr	Herr Teske
-	Neuer Markt	Neuer Markt	Tu, Fr 08:00-13:00				Borbeck	Neuer Markt	Di, Fr	08:00 – 13:00 Uhr	Herr Schruhl
+§	Neuer Markt	Neuer Markt	Tu, Fr 08:00-13:00		51.472546	6.9489946	Borbeck	Neuer Markt	Di, Fr	08:00 – 13:00 Uhr	Herr Schruhl
 §	Platz a.d. Alten Hauptstraße	Platz a.d. Alten Hauptstraße	Th 08:00-15:00		51.4154862	7.1147175	Burgaltendorf	Platz a.d. Alten Hauptstraße	Do	08:00 – 15:00 Uhr	Herr Teske
 §	Platz a.d. Brückstraße	Platz a.d. Brückstraße	Sa 08:00-13:00		51.3880605	7.0076201	Werden	Platz a.d. Brückstraße	Sa	08:00 – 13:00 Uhr	Herr Schruhl
 §	Platz a.d. Hauptstraße	Platz a.d. Hauptstraße	Tu, Fr 08:00-13:00		51.3642459	6.9369876	Kettwig	Platz a.d. Hauptstraße	Di, Fr	08:00 – 13:00 Uhr	Herr Schruhl
