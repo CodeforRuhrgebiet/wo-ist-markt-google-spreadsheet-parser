@@ -30,7 +30,7 @@
       zoom_level: 13
 -
   name: "Mülheim an der Ruhr"
-  file_name: "mülheim-an-der-Ruhr"
+  file_name: "mülheim-an-der-ruhr"
   spreadsheet:
     id: "1UshjCoKV_ztjMIi5g2Va81pN2qQy7Go0LWd8hkufL6s"
     gid: "661061150"
@@ -43,3 +43,4 @@
         - 6.884523
         - 51.418568
       zoom_level: 13
+
