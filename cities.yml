@@ -13,3 +13,18 @@
         - 7.011837
         - 51.456474
       zoom_level: 12
+-
+  name: "Witten"
+  file_name: "witten"
+  spreadsheet:
+    id: "1UshjCoKV_ztjMIi5g2Va81pN2qQy7Go0LWd8hkufL6s"
+    gid: "897447243"
+  metadata:
+    data_source:
+      title: "Daten von Stadtmarketing Witten GmbH"
+      url: "http://www.stadtmarketing-witten.de/einkaufen/wochenmaerkte.html"
+    map_initialization:
+      coordinates:
+        - 7.3525800
+        - 51.4436200
+      zoom_level: 13
