@@ -22,7 +22,8 @@ class City
 
   def generate_json_file!
     puts "# Saving json file for #{@config['name']}"
-    File.open("#{@@project_root}/result/#{@config['file_name']}.json", 'w') { |file| file.print json_data.to_json }
+    pretty_json = JSON.pretty_generate(json_data)
+    File.open("#{@@project_root}/result/#{@config['file_name']}.json", 'w') { |file| file.print pretty_json }
   end
 
   private
