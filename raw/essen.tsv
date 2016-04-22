@@ -1,0 +1,32 @@
+	Daten von der EVB										
+	https://www.essen.de/rathaus/aemter/ordner_32/Wochenmaerkte.de.html										
+											
+											
+											
+	title	location	opening_hours	opening_hours_unclassified	lat	lon	Stadtteil	Standort/Platz	Markttage	Verkaufszeit	Marktmeister
+§	Altenessener Markt	Altenessener Markt	Tu, Fr 08:00-13:00		51.4855138	7.0096347	Altenessen	Altenessener Markt	Di, Fr	08:00 – 13:00 Uhr	Herr Beiteke
+§	Barbarossaplatz	Barbarossaplatz	We, Fr 08:00-13:00		51.4753582	7.039511	Stoppenberg	Barbarossaplatz	Mi	08:00 – 13:00 Uhr	Herr Schruhl
+§	Bredeneyer-/Zeunerstraße	Bredeneyer-/Zeunerstraße	Fr 08:00-13:00		51.4115285	6.9923934	Bredeney	Bredeneyer-/Zeunerstraße	Fr	08:00 – 13:00 Uhr	Herr Schruhl
+§	Dreiringplatz	Dreiringplatz	Tu, Th 08:00-13:00; Sa 08:00-14:00		51.4463023	7.0800252	Steele	Dreiringplatz	Di, Do 08.00 – 13.00 Uhr / Sa 08:00 – 14:00 Uhr		Herr Teske
+§	Ehrenzeller Platz	Ehrenzeller Platz	We, Sa 08:00-13:00		51.462832	6.9778908	Altendorf	Ehrenzeller Platz	Mi, Sa	08:00 – 13:00 Uhr	Herr Schruhl
+§	Elbestraße	Elbestraße	Fr 14:00-18:00		51.436556	7.0363365	Bergerhausen	Elbestraße	Fr	14:00 – 18:00 Uhr	Herr Beiteke
+§	Frintroper Markt	Frintroper Markt	Sa 08:00-13:00		51.4711032	6.9203463	Frintrop	Frintroper Markt	Sa	08:00 – 13:00 Uhr	Herr Schruhl
+§	Frohnhauser Markt	Frohnhauser Markt	Tu 11:00-18:00; Th, Sa 08:00-13:00		51.4469169	6.9787189	Frohnhausen	Frohnhauser Markt	Di 11:00 – 18:00 Uhr / Do, Sa 08:00 – 13:00 Uhr		Herr Schruhl
+§	Gemarken-/Savignystraße	Gemarken-/Savignystraße	Th 12:00-18:30		51.4439623	6.9936883	Holsterhausen1	Gemarken-/Savignystraße	Do	12:00 – 18:30 Uhr	Herr Schruhl
+§	Geschwister-Scholl-Straße	Geschwister-Scholl-Straße	Th 08:00-13:00		51.4357536	7.1115214	Horst	Geschwister-Scholl-Straße	Do	08:00 – 13:00 Uhr	Herr Teske
+§	Karl-Meyer-Platz	Karl-Meyer-Platz	Th, Sa 08:00-13:00		51.4879859	7.0608713	Schonnebeck	Karl-Meyer-Platz	Do, Sa	08:00 – 13:00 Uhr	Herr Teske
+§	Karnaper Markt	Karnaper Markt	We, Sa 08:00-13:00		51.5225057	7.0092568	Karnap	Karnaper Markt	Mi, Sa	08:00 – 13:00 Uhr	Herr Schruhl
+§	Katernberger Markt	Katernberger Markt	Tu, Fr 08:00-13:00		51.4971813	7.0485092	Katernberg	Katernberger Markt	Di, Fr	08:00 – 13:00 Uhr	Herr Beiteke
+§	Kleiner Markt	Kleiner Markt	We 10:00-18:00; Sa 08:00-13:00		51.432616	6.9772267	Margarethenhöhe	Kleiner Markt	Mi 10:00 – 18:00 Uhr / Sa 08:00 – 13:00 Uhr		Herr Teske
+§	Krayer Markt	Krayer Markt	We, Fr 08:00-13:00		51.4668777	7.0787459	Kray	Krayer Markt	Mi, Fr	08:00 – 13:00 Uhr	Herr Teske
+§	Kupferdreher Markt	Kupferdreher Markt	We, Fr 08:00-13:00		51.3908989	7.0821605	Kupferdreh	Kupferdreher Markt	Mi, Fr	08:00 – 13:00 Uhr	Herr Teske
+§	Marktkirche/Flachsmarkt	Marktkirche/Flachsmarkt	Tu, Fr 09:00-18:00		51.457116	7.012366	Stadtmitte2	Marktkirche/Flachsmarkt	Di, Fr	09:00 – 18:00 Uhr	Herr Teske
+	Neuer Markt	Neuer Markt	Tu, Fr 08:00-13:00				Borbeck	Neuer Markt	Di, Fr	08:00 – 13:00 Uhr	Herr Schruhl
+§	Platz a.d. Alten Hauptstraße	Platz a.d. Alten Hauptstraße	Th 08:00-15:00		51.4154862	7.1147175	Burgaltendorf	Platz a.d. Alten Hauptstraße	Do	08:00 – 15:00 Uhr	Herr Teske
+§	Platz a.d. Brückstraße	Platz a.d. Brückstraße	Sa 08:00-13:00		51.3880605	7.0076201	Werden	Platz a.d. Brückstraße	Sa	08:00 – 13:00 Uhr	Herr Schruhl
+§	Platz a.d. Hauptstraße	Platz a.d. Hauptstraße	Tu, Fr 08:00-13:00		51.3642459	6.9369876	Kettwig	Platz a.d. Hauptstraße	Di, Fr	08:00 – 13:00 Uhr	Herr Schruhl
+§	Platz a.d. Storpstr.	Platz a.d. Storpstr.	Th 14:00-18:00		51.4541795	7.0352224	Südostviertel	Platz a.d. Storpstr.	Do	14:00 – 18:00 Uhr	Herr Teske
+§	Raadter Straße	Raadter Straße	Fr 08:00-18:00		51.413849	6.9536418	Haarzopf	Raadter Straße	Fr	08:00 – 18:00 Uhr	Herr Schruhl
+§	Rüttenscheider Platz	Rüttenscheider Platz	We 08:00-13:00; Sa 08:00-14:00		51.4377608	7.0083742	Rüttenscheid	Rüttenscheider Platz	Mi 08:00 – 13:00 Uhr / Sa 08:00 – 14:00 Uhr		Herr Teske
+§	Schulte-Hinsel/Neptunstr.	Schulte-Hinsel/Neptunstr.	Tu, Fr 08:00-13:00		51.42936	7.0768704	Überruhr	Schulte-Hinsel/Neptunstr.	Di, Fr	08:00 – 13:00 Uhr	Herr Teske
+§	Stadtwaldplatz	Stadtwaldplatz	Tu, Fr 08:00-13:00		51.4200037	7.0256481	Stadtwald	Stadtwaldplatz	Di, Fr	08:00 – 13:00 Uhr	Herr Teske

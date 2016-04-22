@@ -1,48 +1,17 @@
+require 'yaml'
+require 'open-uri'
 require 'csv'
 require 'json'
 
-csv_file = CSV.read("./wochenmaerkte.csv.tsv", { col_sep: "\t" })
+@@project_root = File.expand_path(File.dirname(__FILE__))
+Dir["#{@@project_root}/lib/*.rb"].each {|file| require file }
 
-features = []
-
-csv_file.each_with_index do |row, index|
-  if index != 0 && row[6] && row[5]
-    feature = {
-      type: 'Feature',
-      geometry: {
-        type: 'Point',
-        coordinates: [row[6], row[5]]
-      },
-      properties: {
-        title: row[2],
-        location: row[2],
-        opening_hours: row[7]
-      }
-    }
-
-    features.push(feature)
-  end
+city_entries = YAML.load_file("#{@@project_root}/cities.yml")
+city_entries.each do |config|
+  city = City.new(config)
+  city.download_market_data!
+  city.parse_raw_data!
+  city.generate_json_file!
 end
 
-data = {
-  crs: {
-    properties: {
-      name: "urn:ogc:def:crs:OGC:1.3:CRS84"
-    },
-    type: "name"
-  },
-  type: 'FeatureCollection',
-  features: features,
-  metadata: {
-    data_source: {
-      title: "Daten von der EVB",
-      url: "https://www.essen.de/rathaus/aemter/ordner_32/Wochenmaerkte.de.html"
-     },
-     map_initialization: {
-      "coordinates": [ 7.011837, 51.456474 ],
-      "zoom_level": 12
-    }
-  }
-}
-
-File.open("./essen.json", 'w') { |file| file.print data.to_json }
+exit
