@@ -2,7 +2,7 @@
 
 Make sure `ruby` is installed.
 
-    bundle install
+    $ bundle install
 
 ## Usage
 
@@ -10,6 +10,6 @@ Add your city in `cities.yml`.
 
 run
 
-    ruby run.rb
+    $ ruby run.rb
 
 `/result` contains all city json files.
