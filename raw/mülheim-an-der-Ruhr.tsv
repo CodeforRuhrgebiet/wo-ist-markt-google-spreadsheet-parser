@@ -1,0 +1,11 @@
+	- Kommentare in der Titel-Leiste beachten - grün markiert = wird unbedingt benötigt - § ganz am Anfang = fertig - rot markiert = da fehlt was			alle nicht grün markierten Spalten beinhalten Rohdaten, die zum Markt verfügbar sind							
+											
+	Daten von der Stadt Mülheim an der Ruhr	https://www.muelheim-ruhr.de/cms/muelheimer_wochenmaerkte1.html									
+											
+			Öffnungszeiten im OTS-Format	Nur ausfüllen, falls nicht in OTS-Format darstellbar!!! => Dafür opening_hours freilassen							
+	title	location	opening_hours	opening_hours_unclassified	lat	lon	Stadtteil	Standort/Platz	Zeiten	Marktmeister	Kommentar
+§		Schloßstraße	Tu, Th, Fr, Sa 08:00-14:00		51.42812	6.8813973		Schloßstraße	dienstags, donnerstags, freitags und samstags 8.00 bis 14.00 Uhr	Norbert Noack	
+§	Speldorf	Speldorfer Depot, Duisburger Straße 283	Tu, Th, Fr 07:00-14:00		51.428868	6.840058	Speldorf	Speldorfer Depot, Duisburger Straße 283	dienstags, donnerstags, freitags jeweils 7.00 bis 14.00 Uhr	Dagmar Bejer	
+§	Styrum	Am Sültenfuß	Fr 07:00-13:30		51.450333	6.859398	Styrum	Am Sültenfuß	freitags, 7.00 bis 13.30 Uhr	Günter Walkenhorst	
+§	Heißen	Heißener Marktplatz	Th 07:00-13:30		51.433629	6.924297	Heißen	Heißener Marktplatz	donnerstags, 7.00 bis 13.30 Uhr	Günter Walkenhorst	
+§	Saarn	Pastor-Luhr-Platz	We 07:00-13:30; Sa 09:00-15:00		51.406117	6.873836	Saarn	Pastor-Luhr-Platz	mittwochs, 7.00 bis 13.00 Uhr  samstags,  9.00 bis 15.00 Uhr	Mi: Hartmut Kessler Sa: Werbegemeinschaft Saarn	

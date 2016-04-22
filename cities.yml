@@ -28,3 +28,18 @@
         - 7.3525800
         - 51.4436200
       zoom_level: 13
+-
+  name: "Mülheim an der Ruhr"
+  file_name: "mülheim-an-der-Ruhr"
+  spreadsheet:
+    id: "1UshjCoKV_ztjMIi5g2Va81pN2qQy7Go0LWd8hkufL6s"
+    gid: "661061150"
+  metadata:
+    data_source:
+      title: "Daten von der Stadt Mülheim an der Ruhr"
+      url: "https://www.muelheim-ruhr.de/cms/muelheimer_wochenmaerkte1.html"
+    map_initialization:
+      coordinates:
+        - 6.884523
+        - 51.418568
+      zoom_level: 13
