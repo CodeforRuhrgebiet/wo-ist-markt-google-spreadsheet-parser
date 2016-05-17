@@ -1,0 +1,35 @@
+	- Kommentare in der Titel-Leiste beachten - grün markiert = wird unbedingt benötigt - § ganz am Anfang = fertig - rot markiert = da fehlt was			alle nicht grün markierten Spalten beinhalten Rohdaten, die zum Markt verfügbar sind								
+												
+	Daten von Duisburg Kontor GmbH	https://www.duisburg.de/leben/maerkte_in_duisburg/index.php			Mitwirkende:	Anni						
+												
+			Öffnungszeiten im OSM-Format	Nur ausfüllen, falls nicht in OTS-Format darstellbar!!! => Dafür opening_hours freilassen								
+	title	location	opening_hours	opening_hours_unclassified	lat	lon	Stadtteil	Standort/Platz	Markttage	Verkaufszeit	Marktmeister	Kommentar
+§	Vierlinden	Franz-Lenze-Platz, 47178 Duisburg	We, Sa 08:00 - 13:00		51.539254	6.722104	Vierlinden	Franz-Lenze-Platz	Mi, Sa	08:00 – 13:00 Uhr		
+§	Aldenrade	Kometenplatz, 47179 Duisburg	Tu, Fr 08:00 - 13:00		51.527139	6.743406	Aldenrade	Kometenplatz	Di, Fr	08:00 – 13:00 Uhr		
+§	Marxloh	August-Bebel-Platz, 47169 Duisburg	Mo, We, Fr 08:00 - 13:00		51.501846	6.759292	Marxloh	August-Bebel-Platz	Mo, Mi, Fr	08:00 – 13:00 Uhr		
+§	Neumühl	Hohenzollernplatz, 47167 Duisburg	Mo, We, Fr 08:00 - 13:00		51.496854	6.799567	Neumühl	Hohenzollernplatz	Mo, Mi, Fr	08:00 – 13:00 Uhr		
+§	Hamborn	Hamborner Altmarkt, 47166 Duisburg	Tu, Th, Sa 08:00 - 13:00		51.490952	6.772321	Hamborn	Hamborner Altmarkt	Di, Do, Sa	08:00 – 13:00 Uhr		
+§	Bruckhausen	Heinrichplatz, 47166 Duisburg	Fr 08:00 - 16:00		51.487229	6.739683	Bruckhausen	Heinrichplatz	Fr	08:00 - 16:00 Uhr		
+§	Beeck	Marktplatz, 47139 Duisburg	Tu, Th, Sa 08:00 - 13:00		51.478642	6.734253	Beeck	Marktplatz	Di, Do, Sa	08:00 – 13:00 Uhr		
+§	Beeckerwerth	Schwalbenplatz, 47139 Duisburg	We, Fr 08:00 - 13:00		51.47482	6.701556	Beeckerwerth	Schwalbenplatz	Mi, Fr	08:00 – 13:00 Uhr		
+§	Laar	Werth-/Schillstraße, 47119 Duisburg	Tu, Th, Sa 08:00 - 13:00		51.466611	6.727092	Laar	Werth-/Schillstraße	Di, Do, Sa	08:00 – 13:00 Uhr		
+§	Untermeiderich	Spichernplatz, 47137 Duisburg	Fr 08:00 - 13:00		51.470185	6.754479	Untermeiderich	Spichernplatz	Fr	08:00 – 13:00 Uhr		
+§	Mittelmeiderich	Bahnhofsvorplatz, Von-der-Mark-Straße, 47137 Duisburg	We 08:00 - 13:00; Sa 08:00 - 14:00		51.46763	6.780145	Mittelmeiderich	Bahnhofsvorplatz	Mi, Sa	08:00 - 13:00 Uhr; 08:00 - 14:00 Uhr		
+§	Obermeiderich	Wasgaustraße, 47137 Duisburg	Sa 08:00 - 13:00		51.475012	6.78825	Obermeiderich	Wasgaustraße	Sa	08:00 – 13:00 Uhr		
+§	Ruhrort	Neumarkt, 47119 Duisburg	We, Fr 08:00 - 13:00		51.45358	6.732468	Ruhrort	Neumarkt	Mi, Fr	08:00 – 13:00 Uhr		
+§	Homberg	Bismarckplatz, 47198 Duisburg	Tu, Fr 08:00 - 13:00		51.450445	6.707749	Homberg	Bismarckplatz	Di, Fr	08:00 – 13:00 Uhr		
+§	Hochheide	Bürgermeister-Bongartz-Platz, 47198 Duisburg	We, Sa 08:00 - 13:00		51.449909	6.686496	Hochheide	Bürgermeister-Bongartz-Platz	Mi, Sa	08:00 – 13:00 Uhr		
+§	Rumeln	Dorf-/Verbindungsstraße, 47239 Duisburg	Th 08:00 - 13:00		51.402588	6.660244	Rumeln	Dorf-/Verbindungsstraße	Do	08:00 – 13:00 Uhr		
+§	Friemersheim	Kaiser-/Kronprinzenstraße, 47229 Duisburg	Tu, Fr 08:00 - 13:00		51.389139	6.707073	Friemersheim	Kaiser-/Kronprinzenstraße	Di, Fr	08:00 – 13:00 Uhr		
+§	Bergheim	Alfred-Hitz-Platz, 47228 Duisburg	Tu, Fr 08:00 - 13:00		51.411314	6.685739	Bergheim	Alfred-Hitz-Platz	Di, Fr	08:00 – 13:00 Uhr		
+§	Hochemmerich	Atroper Straße/Duisburger Straße, 47226 Duisburg	We, Sa 08:00 - 13:00		51.410921	6.720421	Hochemmerich	Atroper Straße/Duisburger Straße	Mi, Sa	08:00 – 13:00 Uhr		
+§	Duissern	Königsberger Allee, 47058 Duisburg	Tu, Fr 14:00 - 18:30		51.438036	6.789928	Duissern	Königsberger Allee	Di, Fr	14:00 – 18:30 Uhr		
+§	Neudorf	Ludgeriplatz, 47057 Duisburg	Tu, Fr 08:00 - 13:00		51.430234	6.781664	Neudorf	Ludgeriplatz	Di, Fr	08:00 – 13:00 Uhr		
+§	Bauernmarkt	Königstraße, 47051 Duisburg	Tu, Th, Sa 10:00 - 18:00		51.433177	6.76827	Mitte	Königstraße	Di, Do, Sa	10:00 – 18:00 Uhr		
+§	Hochfeld	Saarbrücker Straße/Fröbelstraße, 47053 Duisburg	We, Sa 08:00 - 13:00		51.417072	6.757027	Hochfeld	Saarbrücker Straße/Fröbelstraße	Mi, Sa	08:00 – 13:00 Uhr		
+§	Wanheimerort	Michaelplatz, 47055 Duisburg	Tu, Th 08:00 - 13:00		51.402663	6.759129	Wanheimerort	Michaelplatz	Di, Do	08:00 – 13:00 Uhr		
+§	Bissingheim	Dorfplatz, 47279 Duisburg	Th 08:00 - 13:00		51.392388	6.811701	Bissingheim	Dorfplatz	Do	08:00 – 13:00 Uhr		
+§	Wedau	Wedauer Markt, 47279 Duisburg	We, Fr 08:00 - 13:00		51.392112	6.797078	Wedau	Wedauer Markt	Mi, Fr	08:00 – 13:00 Uhr		
+§	Buchholz	Münchener Straße, 47249 Duisburg	Tu, Fr 08:00 - 13:00		51.384069	6.765347	Buchholz	Münchener Straße	Di, Fr	08:00 – 13:00 Uhr		
+§	Wanheim	Am Tollberg/Molbergstraße, 47249 Duisburg	We, Sa 08:00 - 13:00		51.381362	6.743183	Wanheim	Am Tollberg/Molbergstraße	Mi, Sa	08:00 – 13:00 Uhr		
+§	Huckingen	Mündelheimer Straße/Im Wittfeld, 47259 Duisburg	Th 08:00 - 13:00		51.37057	6.749864	Huckingen	Mündelheimer Straße/Im Wittfeld	Do	08:00 – 13:00 Uhr		

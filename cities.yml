@@ -43,4 +43,19 @@
         - 6.884523
         - 51.418568
       zoom_level: 13
+-
+  name: "Duisburg"
+  file_name: "duisburg"
+  spreadsheet:
+    id: "1UshjCoKV_ztjMIi5g2Va81pN2qQy7Go0LWd8hkufL6s"
+    gid: "153486762"
+  metadata:
+    data_source:
+      title: "Daten von Duisburg Kontor GmbH"
+      url: "https://www.duisburg.de/leben/maerkte_in_duisburg/index.php"
+    map_initialization:
+      coordinates:
+        - 6.762329
+        - 51.434408
+      zoom_level: 13
 

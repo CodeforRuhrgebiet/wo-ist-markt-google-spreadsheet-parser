@@ -2,7 +2,7 @@
 										
 	Daten von Stadtmarketing Witten GmbH	http://www.stadtmarketing-witten.de/einkaufen/wochenmaerkte.html			Mitwirkende: Martin Schurig					
 										
-			Öffnungszeiten im OTS-Format	Nur ausfüllen, falls nicht in OTS-Format darstellbar!!! => Dafür opening_hours freilassen						
+			Öffnungszeiten im OSM-Format	Nur ausfüllen, falls nicht in OTS-Format darstellbar!!! => Dafür opening_hours freilassen						
 	title	location	opening_hours	opening_hours_unclassified	lat	lon	Stadtteil	Standort/Platz	Markttage / Zeiten	Hinweis
 §	Rathausplatz	Rathausplatz	Tu, Th, Sa 08:00-14:00		51.4395685	7.335587	Innenstadt	Rathausplatz	dienstags, donnerstags und samstags von 8:00 bis 14:00 Uhr	
 §	Marktplatz an der Stockumer Straße	Marktplatz an der Stockumer Straße	Fr 08:00-13:00		51.44866	7.37634	Annen	Marktplatz an der Stockumer Straße	freitags von 8:00 bis 13:00 Uhr	

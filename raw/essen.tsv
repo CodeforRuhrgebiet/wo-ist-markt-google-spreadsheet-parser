@@ -2,7 +2,7 @@
 											
 	Daten von der EVB	https://www.essen.de/rathaus/aemter/ordner_32/Wochenmaerkte.de.html			Mitwirkende: Martin Schurig						
 											
-			Öffnungszeiten im OTS-Format	Nur ausfüllen, falls nicht in OTS-Format darstellbar!!! => Dafür opening_hours freilassen							
+			Öffnungszeiten im OSM-Format	Nur ausfüllen, falls nicht in OTS-Format darstellbar!!! => Dafür opening_hours freilassen							
 	title	location	opening_hours	opening_hours_unclassified	lat	lon	Stadtteil	Standort/Platz	Markttage	Verkaufszeit	Marktmeister
 §	Altenessener Markt	Altenessener Markt	Tu, Fr 08:00-13:00		51.4855138	7.0096347	Altenessen	Altenessener Markt	Di, Fr	08:00 – 13:00 Uhr	Herr Beiteke
 §	Barbarossaplatz	Barbarossaplatz	We, Fr 08:00-13:00		51.4753582	7.039511	Stoppenberg	Barbarossaplatz	Mi	08:00 – 13:00 Uhr	Herr Schruhl

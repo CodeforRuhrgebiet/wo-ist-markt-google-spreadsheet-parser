@@ -2,7 +2,7 @@
 											
 	Daten von der Stadt Mülheim an der Ruhr	https://www.muelheim-ruhr.de/cms/muelheimer_wochenmaerkte1.html			Mitwirkende: Martin Schurig						
 											
-			Öffnungszeiten im OTS-Format	Nur ausfüllen, falls nicht in OTS-Format darstellbar!!! => Dafür opening_hours freilassen							
+			Öffnungszeiten im OSM-Format	Nur ausfüllen, falls nicht in OTS-Format darstellbar!!! => Dafür opening_hours freilassen							
 	title	location	opening_hours	opening_hours_unclassified	lat	lon	Stadtteil	Standort/Platz	Zeiten	Marktmeister	Kommentar
 §	Schloßstraße	Schloßstraße	Tu, Th, Fr, Sa 08:00-14:00		51.42812	6.8813973		Schloßstraße	dienstags, donnerstags, freitags und samstags 8.00 bis 14.00 Uhr	Norbert Noack	
 §	Speldorf	Speldorfer Depot, Duisburger Straße 283	Tu, Th, Fr 07:00-14:00		51.428868	6.840058	Speldorf	Speldorfer Depot, Duisburger Straße 283	dienstags, donnerstags, freitags jeweils 7.00 bis 14.00 Uhr	Dagmar Bejer	
