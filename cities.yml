@@ -55,7 +55,7 @@
       url: "https://www.duisburg.de/leben/maerkte_in_duisburg/index.php"
     map_initialization:
       coordinates:
-        - 6.762329
-        - 51.434408
-      zoom_level: 13
+        - 6.760197
+        - 51.451730
+      zoom_level: 12
 

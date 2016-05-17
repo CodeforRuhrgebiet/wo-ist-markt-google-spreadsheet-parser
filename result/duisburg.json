@@ -450,10 +450,10 @@
     },
     "map_initialization": {
       "coordinates": [
-        6.762329,
-        51.434408
+        6.760197,
+        51.45173
       ],
-      "zoom_level": 13
+      "zoom_level": 12
     }
   }
 }
