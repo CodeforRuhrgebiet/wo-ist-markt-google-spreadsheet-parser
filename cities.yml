@@ -58,4 +58,33 @@
         - 6.760197
         - 51.451730
       zoom_level: 12
-
+-
+  name: "Bochum"
+  file_name: "bochum"
+  spreadsheet:
+    id: "1UshjCoKV_ztjMIi5g2Va81pN2qQy7Go0LWd8hkufL6s"
+    gid: "918742844"
+  metadata:
+    data_source:
+      title: "Daten von der Stadt Bochum"
+      url: "https://www.bochum.de/amt32/wochenmaerkte"
+    map_initialization:
+      coordinates:
+        - 7.218487
+        - 51.478045
+      zoom_level: 12
+-
+  name: "Dortmund"
+  file_name: "dortmund"
+  spreadsheet:
+    id: "1UshjCoKV_ztjMIi5g2Va81pN2qQy7Go0LWd8hkufL6s"
+    gid: "1144515795"
+  metadata:
+    data_source:
+      title: "Daten von der Stadt Dortmund"
+      url: "https://www.dortmund.de/de/leben_in_dortmund/stadtportraet/einkaufen/wochenmaerkte/"
+    map_initialization:
+      coordinates:
+        - 7.465853
+        - 51.515401
+      zoom_level: 12

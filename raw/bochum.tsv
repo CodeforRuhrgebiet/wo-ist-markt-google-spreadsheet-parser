@@ -1,0 +1,18 @@
+	- Kommentare in der Titel-Leiste beachten - grün markiert = wird unbedingt benötigt - § ganz am Anfang = fertig - rot markiert = da fehlt was			alle nicht grün markierten Spalten beinhalten Rohdaten, die zum Markt verfügbar sind								
+												
+	Daten von der Stadt Bochum	https://www.bochum.de/amt32/wochenmaerkte			Mitwirkende:	Marie-Louise Timcke (@datentaeterin)						
+												
+			Öffnungszeiten im OSM-Format	Nur ausfüllen, falls nicht in OTS-Format darstellbar!!! => Dafür opening_hours freilassen								
+	title	location	opening_hours	opening_hours_unclassified	lat	lon	Stadtteil	Standort/Platz	Markttage	Verkaufszeit	Marktmeister	Kommentar
+§	Rathausmarkt	Rathaus, Willy-Brandt-Platz 1	Tu, Fr 07:00-14:00		51.481981	7.215317	Mitte	Rathaus, Willy-Brandt-Platz 1	Di, Fr	07:00 - 14:00 Uhr		
+§	Riemke Markt	Marktscheide, Herner Straße	We, Sa 07:00-13:00		51.510049	7.211658	Riemke	Marktscheide, Herner Straße	Mi, Sa	07:00 - 13:00 Uhr		An der U-Bahn Riemke Markt
+§	Weitmarer Straßenbasar	Matthäusstraße	Th 07:00-13:00		51.45361	7.190603	Weitmar	Matthäusstraße	Do	07:00 - 13:00 Uhr		
+§	Werne	Zur Werner Heide 43	We, Sa 07:00-13:00		51.4875	7.306596	Werne	Zur Werner Heide 43	Mi, Sa	07:00 - 13:00 Uhr		
+§	Altenbochum	Friemannplatz	Tu, Fr 07:00-13:00		51.472915	7.245201	Altenbochum	Friemannplatz	Di, Fr	07:00 - 13:00 Uhr		
+§	Alter Markt	Platz zwischen Alten Markt und Weststraße	Tu, Fr 07:00-13:00		51.481523	7.132987	Wattenscheid	Platz zwischen Alten Markt und Weststraße	Di, Fr	07:00 - 13:00 Uhr		
+§	Bismarckplatz	Bismarckplatz 1A	Th 07:00-13:00		51.480731	7.150194	Wattenscheid	Bismarckplatz 1A	Do	07:00 - 13:00 Uhr		
+§	Markt am Bahnhof	Buddenbergplatz	We, Sa 07:00-14:00		51.477613	7.224295	Mitte	Buddenbergplatz	Mi, Sa	07:00 - 14:00 Uhr		
+§	Günnigfeld	Max-König-Platz	Sa 07:00-13:00		51.496102	7.143949	Günnigfeld	Max-König-Platz	Sa	07:00 - 13:00 Uhr		
+§	Langendreer	Marktplatz Langendreer	Tu, Fr 07:00-13:00		51.473452	7.324944	Langendreer	Marktplatz Langendreer	Di, Fr	07:00 - 13:00 Uhr		
+§	Linden	Wilhelm-Hopmann-Platz, Marktplatz Hattingerstraße/Dr.-C.-Otto-Straße	We, Sa 07:00-13:00		51.42522	7.160064	Linden	Marktplatz Hattingerstraße/Dr.-C.-Otto-Straße	Mi, Sa	07:00 - 13:00 Uhr		
+§	Weitmar-Mark	Pfarrer-Halbe-Straße	Fr 07:00-13:00		51.440998	7.211088	Weitmar-Mark	Pfarrer-Halbe-Straße	Fr	07:00 - 13:00 Uhr		

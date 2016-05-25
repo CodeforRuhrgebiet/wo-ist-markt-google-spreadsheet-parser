@@ -1,0 +1,19 @@
+	- Kommentare in der Titel-Leiste beachten - grün markiert = wird unbedingt benötigt - § ganz am Anfang = fertig - rot markiert = da fehlt was			alle nicht grün markierten Spalten beinhalten Rohdaten, die zum Markt verfügbar sind								
+												
+	Daten von der Stadt Dortmund	https://www.dortmund.de/de/leben_in_dortmund/stadtportraet/einkaufen/wochenmaerkte/			Mitwirkende: 	Marie-Louise Timcke (@datentaeterin)						
+												
+			Öffnungszeiten im OSM-Format	Nur ausfüllen, falls nicht in OTS-Format darstellbar!!! => Dafür opening_hours freilassen								
+	title	location	opening_hours	opening_hours_unclassified	lat	lon	Stadtteil	Standort/Platz	Markttage	Verkaufszeit	Marktmeister	Kommentar
+§	Platz Köln-Berliner-Straße / Ecke Schüruferstraße	Platz Köln-Berliner-Straße / Ecke Schüruferstraße	Th 07:00-13:00		51.491867	7.55539	Aplerbeck	Platz Köln-Berliner-Straße / Ecke Schüruferstraße	Do	07:00 - 13:00 Uhr		
+§	Marktplatz zwischen Brackeler Hellweg und Oberdorfstraße	Marktplatz zwischen Brackeler Hellweg und Oberdorfstraße	Th 07:00-13:00		51.522777	7.542103	Brackel	Marktplatz zwischen Brackeler Hellweg und Oberdorfstraße	Do	07:00 - 13:00 Uhr		
+§	Platz Bayrische Straße / Ecke Deutsche Straße	Platz Bayrische Straße / Ecke Deutsche Straße	Tu, Fr 07:00-13:00		51.554747	7.472758	Eving	Platz Bayrische Straße / Ecke Deutsche Straße	Di, Fr	07:00 - 13:00 Uhr		
+§	Wilhelmplatz	Wilhelmplatz	Tu, Fr 07:00-13:00		51.5125198	7.4240735	Dorstfeld	Wilhelmplatz	Di, Fr	07:00 - 13:00 Uhr		
+§	Platz Harkortstraße/Ecke Steinäckerstraße und im Fußgängerbereich Harkortstraße	Platz Harkortstraße/Ecke Steinäckerstraße und im Fußgängerbereich Harkortstraße	We, Sa 07:00-13:00		51.475906	7.439257	Hombruch	Platz Harkortstraße/Ecke Steinäckerstraße und im Fußgängerbereich Harkortstraße	Mi, Sa	07:00 - 13:00 Uhr		
+§	Platz an der Schlanken Mathilde und Hermannstraße	Platz an der Schlanken Mathilde und Hermannstraße	Tu, Fr 07:00-13:00		51.488813	7.500584	Hörde	Platz an der Schlanken Mathilde und Hermannstraße	Di, Fr	07:00 - 13:00 Uhr		Der Hörder Stiftsmarkt
+§	Platz an der Rahmer Straße	Platz an der Rahmer Straße	Tu, Fr 07:00-13:00		51.531158	7.414175	Huckarde	Platz an der Rahmer Straße	Di, Fr	07:00 - 13:00 Uhr		
+§	Platz Mallinckrodt-, Lortzing-, Stollen-, und Clausthaler Straße	Platz Mallinckrodt-, Lortzing-, Stollen-, und Clausthaler Straße	Tu, Fr 07:00-13:00		51.526002	7.465577	Innenstadt-Nord	Platz Mallinckrodt-, Lortzing-, Stollen-, und Clausthaler Straße	Di, Fr	07:00 - 13:00 Uhr		
+§	Kaiserstraßenviertel	Kaiserstraßenviertel	Sa 07:00-13:00		51.512983	7.490301	Innenstadt-Ost	Kaiserstraßenviertel	Sa	07:00 - 13:00 Uhr		Der Davidis Markt
+§	Hansaplatz	Hansaplatz	We 07:00-14:00; Fr, Sa 07:00-15:00		51.5134165	7.4653494	Innenstadt-West 	Hansaplatz	Mi, Fr, Sa 	07:00 - 14:00 Uhr; 07:00 - 15:00 Uhr		
+§	Heinrich-Sondermann-Platz	Heinrich-Sondermann-Platz	We, Sa 07:00-13:00		51.5002037	7.3342106	Lütgendortmund	Heinrich-Sondermann-Platz	Mi, Sa	07:00 - 13:00 Uhr		Platz an der Limbecker Straße zwischen Haus Nummer 29 und 31 (Heinrich-Sondermann-Platz)
+§	Mengeder Markt	Mengeder Markt	We, Sa 07:00-13:00		51.570991	7.382314	Mengede	Mengeder Markt	Mi, Sa	07:00 - 13:00 Uhr		
+§	Schulparkplatzes Buschei Straße	Schulparkplatzes Buschei Straße	Th 07:00-13:00		51.547187	7.543326	Scharnhorst	Schulparkplatzes Buschei Straße	Do	07:00 - 13:00 Uhr		
