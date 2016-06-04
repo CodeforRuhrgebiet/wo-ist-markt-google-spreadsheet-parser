@@ -103,3 +103,18 @@
         - 6.974268
         - 51.250986
       zoom_level: 14
+-
+  name: "Ratingen"
+  file_name: "ratingen"
+  spreadsheet:
+    id: "1UshjCoKV_ztjMIi5g2Va81pN2qQy7Go0LWd8hkufL6s"
+    gid: "269951585"
+  metadata:
+    data_source:
+      title: "Daten des Ordnungsamt Ratingen"
+      url: "http://www.stadt-ratingen.de/wirtschaft_internationales/einkaufen_in_ratingen/wochenmaerkte/index.php"
+    map_initialization:
+      coordinates:
+        - 6.8320973
+        - 51.2970434
+      zoom_level: 14
