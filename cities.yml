@@ -88,3 +88,18 @@
         - 7.465853
         - 51.515401
       zoom_level: 12
+-
+  name: "Mettmann"
+  file_name: "mettmann"
+  spreadsheet:
+    id: "1UshjCoKV_ztjMIi5g2Va81pN2qQy7Go0LWd8hkufL6s"
+    gid: "986907394"
+  metadata:
+    data_source:
+      title: "Daten von der Stadt Mettmann"
+      url: "http://www.mettmann.de/stadtportrait/wochenmaerkte.php"
+    map_initialization:
+      coordinates:
+        - 6.974268
+        - 51.250986
+      zoom_level: 14

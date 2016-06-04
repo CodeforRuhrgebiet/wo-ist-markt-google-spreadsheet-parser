@@ -1,0 +1,7 @@
+	- Kommentare in der Titel-Leiste beachten - grün markiert = wird unbedingt benötigt - § ganz am Anfang = fertig - rot markiert = da fehlt was			alle nicht grün markierten Spalten beinhalten Rohdaten, die zum Markt verfügbar sind								
+												
+	Daten von der Stadt Mettmann	http://www.mettmann.de/stadtportrait/wochenmaerkte.php			Mitwirkende:	Max Schorradt (@mechtecify)						
+												
+			Öffnungszeiten im OSM-Format	Nur ausfüllen, falls nicht in OTS-Format darstellbar!!! => Dafür opening_hours freilassen								
+	title	location	opening_hours	opening_hours_unclassified	lat	lon	Stadtteil	Standort/Platz	Markttage	Verkaufszeit	Marktmeister	Kommentar
+§	Jubiläumsplatz	Jubiläumsplatz	We, Sa 08:00-13:00		51.2511345	6.9760548			Mi, Sa	08:00 - 13:00 Uhr	Ordnungsbehörde	
