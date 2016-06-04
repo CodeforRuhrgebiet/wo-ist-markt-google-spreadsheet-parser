@@ -1,0 +1,54 @@
+{
+  "crs": {
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    },
+    "type": "name"
+  },
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.8474181",
+          "51.2970434"
+        ]
+      },
+      "properties": {
+        "title": "Ratingen Mitte",
+        "location": "Marktplatz",
+        "opening_hours": "Apr-Sep: Tu, Th, Sa 07:00-14:00; Oct-Mar: Tu, Th, Sa 08:00-14:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "6.8287663",
+          "51.3320174"
+        ]
+      },
+      "properties": {
+        "title": "Ratingen-Lintorf",
+        "location": "Lintorfer Markt",
+        "opening_hours": "Apr-Sep: We, Sa 07:00-14:00; Oct-Mar: We, Sa 08:00-14:00"
+      }
+    }
+  ],
+  "metadata": {
+    "data_source": {
+      "title": "Daten des Ordnungsamt Ratingen",
+      "url": "http://www.stadt-ratingen.de/wirtschaft_internationales/einkaufen_in_ratingen/wochenmaerkte/index.php"
+    },
+    "map_initialization": {
+      "coordinates": [
+        6.8320973,
+        51.2970434
+      ],
+      "zoom_level": 14
+    }
+  }
+}

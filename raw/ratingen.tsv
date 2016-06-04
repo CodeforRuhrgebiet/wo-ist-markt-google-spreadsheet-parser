@@ -1,0 +1,9 @@
+	- Kommentare in der Titel-Leiste beachten - grün markiert = wird unbedingt benötigt - § ganz am Anfang = fertig - rot markiert = da fehlt was			alle nicht grün markierten Spalten beinhalten Rohdaten, die zum Markt verfügbar sind								
+												
+	Daten des Ordnungsamt Ratingen	http://www.stadt-ratingen.de/wirtschaft_internationales/einkaufen_in_ratingen/wochenmaerkte/index.php			Mitwirkende:	Christian Knebel						
+												
+			Öffnungszeiten im OSM-Format	Nur ausfüllen, falls nicht in OTS-Format darstellbar!!! => Dafür opening_hours freilassen								
+	title	location	opening_hours	opening_hours_unclassified	lat	lon	Stadtteil	Standort/Platz	Markttage	Verkaufszeit	Marktmeister	Kommentar
+§	Ratingen Mitte	Marktplatz	Apr-Sep: Tu, Th, Sa 07:00-14:00; Oct-Mar: Tu, Th, Sa 08:00-14:00		51.2970434	6.8474181						
+§	Ratingen-Lintorf	Lintorfer Markt	Apr-Sep: We, Sa 07:00-14:00; Oct-Mar: We, Sa 08:00-14:00		51.3320174	6.8287663						
+	Ratingen West		Apr-Sep: Fr 07:00-14:00; Oct-Mar: Fr 08:00-14:00									
