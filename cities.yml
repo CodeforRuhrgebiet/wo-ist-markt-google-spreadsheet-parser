@@ -133,3 +133,18 @@
         - 6.933045
         - 51.169855
       zoom_level: 14
+-
+  name: "Langenfeld (Rhld.)"
+  file_name: "langenfeld_rhld"
+  spreadsheet:
+    id: "1UshjCoKV_ztjMIi5g2Va81pN2qQy7Go0LWd8hkufL6s"
+    gid: "1606941590"
+  metadata:
+    data_source:
+      title: "Daten der Stadt Langenfeld (Rhld.)"
+      url: "http://langenfeld.active-city.net/city_info/display/dokument/show.cfm?region_id=138&id=4240&design_id=3340&type_id=0&titletext=1"
+    map_initialization:
+      coordinates:
+        - 6.948866
+        - 51.109950
+      zoom_level: 13
