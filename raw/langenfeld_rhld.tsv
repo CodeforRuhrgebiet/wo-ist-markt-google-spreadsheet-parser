@@ -1,0 +1,7 @@
+	- Kommentare in der Titel-Leiste beachten - grün markiert = wird unbedingt benötigt - § ganz am Anfang = fertig - rot markiert = da fehlt was			alle nicht grün markierten Spalten beinhalten Rohdaten, die zum Markt verfügbar sind								
+												
+	Daten der Stadt Langenfled (Rhld.)	http://langenfeld.active-city.net/city_info/display/dokument/show.cfm?region_id=138&id=4240&design_id=3340&type_id=0&titletext=1			Mitwirkende:	Alexander Roskamp (github / Slack / Twitter: @aroskamp)						
+												
+			Öffnungszeiten im OSM-Format	Nur ausfüllen, falls nicht in OTS-Format darstellbar!!! => Dafür opening_hours freilassen								
+	title	location	opening_hours	opening_hours_unclassified	lat	lon	Stadtteil	Standort/Platz	Markttage	Verkaufszeit	Marktmeister	Kommentar
+§	Hauptmarkt	Marktplatz	Tu 07:30-13:00; Fr 07:30-16:00		51.10995	6.948866		Marktplatz	Di, Fr	07:30 - 13:00 bzw. 07:30 - 16:00		
