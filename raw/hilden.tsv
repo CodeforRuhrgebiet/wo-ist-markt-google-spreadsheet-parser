@@ -1,9 +1,9 @@
 	- Kommentare in der Titel-Leiste beachten - grün markiert = wird unbedingt benötigt - § ganz am Anfang = fertig - rot markiert = da fehlt was			alle nicht grün markierten Spalten beinhalten Rohdaten, die zum Markt verfügbar sind								
 												
-	Daten der Stadt Hilden	http://www.hilden.de/sv_hilden/Unsere%20Stadt/Rathaus/Ortsrecht/II-04%20Festsetzung%20Wochenm%C3%A4rkte.pdf			Mitwirkende:	Alexander Roskamp (@aroskamp)						
+	Daten der Stadt Hilden	http://www.hilden.de/sv_hilden/Unsere%20Stadt/Rathaus/Ortsrecht/II-04%20Festsetzung%20Wochenm%C3%A4rkte.pdf			Mitwirkende:	Alexander Roskamp (github / Slack / Twitter: @aroskamp)						
 												
 			Öffnungszeiten im OSM-Format	Nur ausfüllen, falls nicht in OTS-Format darstellbar!!! => Dafür opening_hours freilassen								
 	title	location	opening_hours	opening_hours_unclassified	lat	lon	Stadtteil	Standort/Platz	Markttage	Verkaufszeit	Marktmeister	Kommentar
-§	Hauptmarkt	Nové-Mêsto-Platz	We 07:00-13:00; Sa 07:00-13:30		51.169855	6.933045		Nové-Mêsto-Platz	MI, Sa	07:00 - 13:00 bzw. 07:00 - 13:30		
+§	Hauptmarkt	Nové-Mêsto-Platz	We 07:00-13:00; Sa 07:00-13:30		51.169855	6.933045		Nové-Mêsto-Platz	Mi, Sa	07:00 - 13:00 bzw. 07:00 - 13:30		
 §	Nordmarkt	Beethovenstr. / Nordmarkt	Fr 09:00-16:30		51.180346	6.934390		Beethovenstr. / Nordmarkt	Fr	09:00 - 16:30		
 §	Südmarkt	Sankt-Konrad-Allee	Th 07:00-13:00		51.160248	6.940515		Sankt-Konrad-Allee	Do	07:00 - 13:00		
