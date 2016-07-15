@@ -6,7 +6,7 @@
     gid: "260636694"
   metadata:
     data_source:
-      title: "Daten von der EVB"
+      title: "EVB"
       url: "https://www.essen.de/rathaus/aemter/ordner_32/Wochenmaerkte.de.html"
     map_initialization:
       coordinates:
@@ -21,7 +21,7 @@
     gid: "897447243"
   metadata:
     data_source:
-      title: "Daten von Stadtmarketing Witten GmbH"
+      title: "Stadtmarketing Witten GmbH"
       url: "http://www.stadtmarketing-witten.de/einkaufen/wochenmaerkte.html"
     map_initialization:
       coordinates:
@@ -36,7 +36,7 @@
     gid: "661061150"
   metadata:
     data_source:
-      title: "Daten von der Stadt Mülheim an der Ruhr"
+      title: "Stadt Mülheim an der Ruhr"
       url: "https://www.muelheim-ruhr.de/cms/muelheimer_wochenmaerkte1.html"
     map_initialization:
       coordinates:
@@ -51,7 +51,7 @@
     gid: "153486762"
   metadata:
     data_source:
-      title: "Daten von Duisburg Kontor GmbH"
+      title: "Duisburg Kontor GmbH"
       url: "https://www.duisburg.de/leben/maerkte_in_duisburg/index.php"
     map_initialization:
       coordinates:
@@ -66,7 +66,7 @@
     gid: "918742844"
   metadata:
     data_source:
-      title: "Daten von der Stadt Bochum"
+      title: "Stadt Bochum"
       url: "https://www.bochum.de/amt32/wochenmaerkte"
     map_initialization:
       coordinates:
@@ -81,7 +81,7 @@
     gid: "1144515795"
   metadata:
     data_source:
-      title: "Daten von der Stadt Dortmund"
+      title: "Stadt Dortmund"
       url: "https://www.dortmund.de/de/leben_in_dortmund/stadtportraet/einkaufen/wochenmaerkte/"
     map_initialization:
       coordinates:
@@ -126,7 +126,7 @@
     gid: "916517915"
   metadata:
     data_source:
-      title: "Daten der Stadt Hilden"
+      title: "Stadt Hilden"
       url: "http://www.hilden.de/sv_hilden/Unsere%20Stadt/Rathaus/Ortsrecht/II-04%20Festsetzung%20Wochenm%C3%A4rkte.pdf"
     map_initialization:
       coordinates:
@@ -141,7 +141,7 @@
     gid: "1606941590"
   metadata:
     data_source:
-      title: "Daten der Stadt Langenfeld (Rhld.)"
+      title: "Stadt Langenfeld (Rhld.)"
       url: "http://langenfeld.active-city.net/city_info/display/dokument/show.cfm?region_id=138&id=4240&design_id=3340&type_id=0&titletext=1"
     map_initialization:
       coordinates:
