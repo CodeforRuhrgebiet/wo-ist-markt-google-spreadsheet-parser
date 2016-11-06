@@ -148,3 +148,93 @@
         - 6.948866
         - 51.109950
       zoom_level: 13
+-
+  name: "Bottrop"
+  file_name: "bottrop"
+  spreadsheet:
+    id: "1UshjCoKV_ztjMIi5g2Va81pN2qQy7Go0LWd8hkufL6s"
+    gid: "1665932254"
+  metadata:
+    data_source:
+      title: "Stadt Bottrop"
+      url: "https://www.bottrop.de/vv/produkte/dezernat3/30/30-2/Wochenmaerkte.php"
+    map_initialization:
+      coordinates:
+        - 6.926789
+        - 51.527457
+      zoom_level: 13
+-
+  name: "Gelsenkirchen"
+  file_name: "gelsenkirchen"
+  spreadsheet:
+    id: "1UshjCoKV_ztjMIi5g2Va81pN2qQy7Go0LWd8hkufL6s"
+    gid: "582168695"
+  metadata:
+    data_source:
+      title: "Stadt Gelsenkirchen"
+      url: "https://www.gelsendienste.de/Wochenmaerkte/Unsere_Leistungen/Wochenmaerkte_im_Stadtgebiet.asp"
+    map_initialization:
+      coordinates:
+        - 7.087083
+        - 51.516014
+      zoom_level: 13
+-
+  name: "Hagen"
+  file_name: "hagen"
+  spreadsheet:
+    id: "1UshjCoKV_ztjMIi5g2Va81pN2qQy7Go0LWd8hkufL6s"
+    gid: "1305074212"
+  metadata:
+    data_source:
+      title: "Stadt Hagen"
+      url: "https://www.hagen.de/web/de/fachbereiche/fb_32/fb_32_07/fb_32_0707/wochenmaerkte.html"
+    map_initialization:
+      coordinates:
+        - 7.494752
+        - 51.359128
+      zoom_level: 13
+-
+  name: "Hamm"
+  file_name: "hamm"
+  spreadsheet:
+    id: "1UshjCoKV_ztjMIi5g2Va81pN2qQy7Go0LWd8hkufL6s"
+    gid: "458936296"
+  metadata:
+    data_source:
+      title: "Stadt Hamm"
+      url: "https://www.hamm.de/touristik/freizeit/einkaufen/wochenmaerkte.html"
+    map_initialization:
+      coordinates:
+        - 7.817551
+        - 51.60818
+      zoom_level: 13
+-
+  name: "Herne"
+  file_name: "herne"
+  spreadsheet:
+    id: "1UshjCoKV_ztjMIi5g2Va81pN2qQy7Go0LWd8hkufL6s"
+    gid: "1924742207"
+  metadata:
+    data_source:
+      title: "Stadt Herne"
+      url: "http://www.herne.de/kommunen/herne/ttw.nsf/id/DE_Wochenmaerkte"
+    map_initialization:
+      coordinates:
+        - 7.206496
+        - 51.539589
+      zoom_level: 13
+-
+  name: "Solingen"
+  file_name: "solingen"
+  spreadsheet:
+    id: "1UshjCoKV_ztjMIi5g2Va81pN2qQy7Go0LWd8hkufL6s"
+    gid: "1497979845"
+  metadata:
+    data_source:
+      title: "Stadt Solingen"
+      url: "http://www2.solingen.de/C12572F80037DB19/html/ACDC40511C247E79C1257473002CF1B1?opendocument&nid1=14336_71684"
+    map_initialization:
+      coordinates:
+        - 7.079598
+        - 51.167354
+      zoom_level: 13
